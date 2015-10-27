@@ -1,6 +1,6 @@
 {
   "private": false,
-  "author": "Chyngyz Arystan uulu"
+  "author": "Chyngyz Arystan uulu",
   "engines": {
     "node": ">=0.12.0"
   },
